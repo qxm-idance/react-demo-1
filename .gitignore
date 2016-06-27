@@ -1,0 +1,4 @@
+# Windows:
+node_modules
+.git
+build/
